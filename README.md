@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME; THARUN R
-## REG no: 212224240172
+## NAME: ASWIN L
+## REG no: 212224230028
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
